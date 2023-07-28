@@ -1,4 +1,7 @@
 ### Hi there 👋
+<h3 align="center"><a href="https://hud0shnik.github.io/">
+   <img alt="Luthira Abeykoon" src="https://readme-typing-svg.herokuapp.com/?lines=Danila+Egorov;Go+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luthiraa"/>
 
 <!--
