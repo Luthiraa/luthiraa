@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luthira+Abeykoon)](https://git.io/typing-svg)
+<br></br>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=CE+%20@+UofT+%20'27")](https://git.io/typing-svg)
 <br></br>
 <h1>Stats:</h1>
