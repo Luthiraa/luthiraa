@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luthiraa)](https://github.com/luthiraa/github-readme-stats)
 
 <!--
 **Luthiraa/luthiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
