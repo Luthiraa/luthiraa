@@ -44,9 +44,8 @@
 </div>
 <h1>Stats:</h1>
 <img alt="Luthira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=luthiraa&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
-<div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=m4t7j1rpj0mnq1rae5sc28hht"alt="Spotify recently played"  />
-</div>
+
 
 ###
 <!--
