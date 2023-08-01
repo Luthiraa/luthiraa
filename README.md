@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luthira+Abeykoon)](https://git.io/typing-svg)
 <br></br>
 <p>I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
-<p>I also like to take photos :)</p>
+<p>I also like to take photos :))</p>
 <br clear="both">
 <h2 align="left">Languages/Technologies</h2>
 
