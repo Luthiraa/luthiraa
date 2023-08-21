@@ -1,7 +1,4 @@
-### 👋 Hi there, I'm
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Luthira+Abeykoon)](https://git.io/typing-svg)
-<br></br>
+### 👋 Hi there, I'm Luthira Abeykoon
 <p>I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
 <p>I also like to take photos :))</p>
 <br clear="both">
