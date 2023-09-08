@@ -1,4 +1,5 @@
 ### 👋 Hi there, I'm Luthira Abeykoon
+<img width="100%" src="banner.png">
 <p>I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
 <p>I also like to take photos :))</p>
 <br clear="both">
