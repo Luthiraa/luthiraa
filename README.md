@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Luthira Abeykoon
 ![Banner](banner.png)
 
-### I am a first-year engineering student at the University Of Toronto, studying computer engineering.**
+### I am a first-year engineering student at the University Of Toronto, studying computer engineering.
 
-## Connect with me on LinkedIn!
+# Connect with me on LinkedIn!
 <br>
 <br>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthiraa/)
