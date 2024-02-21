@@ -5,16 +5,6 @@
 
 Connect with me on LinkedIn!
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luthiraa/)
-
-
-### 👋 Hi there, I'm Luthira Abeykoon
-<img width="100%" src="banner.png">
-<p style="font-size: 18px; font-weight: bold">I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
-<p>Connect with me on LinkedIn!</p>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/luthiraa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 <br clear="both">
 <h2 align="left">Languages/Technologies</h2>
