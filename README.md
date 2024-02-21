@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luthira Abeykoon
 ![Banner](banner.png)
 
-**I am a first-year engineering student at the University Of Toronto, studying computer engineering.**
+###**I am a first-year engineering student at the University Of Toronto, studying computer engineering.**
 
 Connect with me on LinkedIn!
 <br>
