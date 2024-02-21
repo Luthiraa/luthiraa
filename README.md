@@ -2,7 +2,7 @@
 <img width="100%" src="banner.png">
 <p>I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/luthiraa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
