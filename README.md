@@ -1,6 +1,14 @@
 ### 👋 Hi there, I'm Luthira Abeykoon
 <img width="100%" src="banner.png">
 <p>I am a first-year engineering student at the University Of Toronto, studying computer engineering.</p>
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
+</p>
 <br clear="both">
 <h2 align="left">Languages/Technologies</h2>
 
