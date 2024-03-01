@@ -51,5 +51,6 @@ Connect with me on LinkedIn!
   
 </div>
 <h1>Stats:</h1>
- <img alt="Luthira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luthiraa&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E" height="198px"/>
+ <img alt="Luthira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthiraa&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="198px"/>
+
 
