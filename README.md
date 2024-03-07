@@ -9,6 +9,7 @@ Connect with me on LinkedIn!
   <a href="https://www.linkedin.com/in/luthiraa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
 </div>
 <br clear="both">
 <h2 align="left">Languages/Technologies</h2>
