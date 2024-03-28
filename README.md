@@ -12,7 +12,7 @@ Connect with me on LinkedIn!
 
 </div>
 <br clear="both">
-<h2 align="left">Languages/Technologies</h2>
+<h1 align="left">Languages/Technologies</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
