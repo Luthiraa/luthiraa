@@ -12,7 +12,7 @@ Connect with me on LinkedIn!
 
 </div>
 <br clear="both">
-<h1 align="left">Languages/Technologies</h1>
+<h2 align="left">Languages/Technologies</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@ Connect with me on LinkedIn!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
   
 </div>
-<h1>Stats:</h1>
+<h2>Stats:</h2>
  <img alt="Luthira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luthiraa&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="198px"/>
 
 
