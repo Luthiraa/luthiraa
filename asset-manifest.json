@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gatsby/static/css/main.937a755e.css",
+    "main.js": "/gatsby/static/js/main.fbe451c7.js",
+    "static/js/453.44f674cb.chunk.js": "/gatsby/static/js/453.44f674cb.chunk.js",
+    "static/media/logo.svg": "/gatsby/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gatsby/index.html",
+    "main.937a755e.css.map": "/gatsby/static/css/main.937a755e.css.map",
+    "main.fbe451c7.js.map": "/gatsby/static/js/main.fbe451c7.js.map",
+    "453.44f674cb.chunk.js.map": "/gatsby/static/js/453.44f674cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.937a755e.css",
+    "static/js/main.fbe451c7.js"
+  ]
+}
