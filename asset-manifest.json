@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/luthira/static/css/main.937a755e.css",
-    "main.js": "/luthira/static/js/main.b6eae343.js",
+    "main.css": "/luthira/static/css/main.e91dac15.css",
+    "main.js": "/luthira/static/js/main.28d3dcc4.js",
     "static/js/453.44f674cb.chunk.js": "/luthira/static/js/453.44f674cb.chunk.js",
+    "static/media/dev.png": "/luthira/static/media/dev.f3fa68f0aa3253b184c0.png",
+    "static/media/Mosiac.png": "/luthira/static/media/Mosiac.3316cab4a83b795bcd13.png",
+    "static/media/IWB.png": "/luthira/static/media/IWB.f01723b658a21abf861d.png",
+    "static/media/Nebula.png": "/luthira/static/media/Nebula.221f4969ca83a654a4d3.png",
     "static/media/logo.svg": "/luthira/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/luthira/index.html",
-    "main.937a755e.css.map": "/luthira/static/css/main.937a755e.css.map",
-    "main.b6eae343.js.map": "/luthira/static/js/main.b6eae343.js.map",
+    "main.e91dac15.css.map": "/luthira/static/css/main.e91dac15.css.map",
+    "main.28d3dcc4.js.map": "/luthira/static/js/main.28d3dcc4.js.map",
     "453.44f674cb.chunk.js.map": "/luthira/static/js/453.44f674cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.937a755e.css",
-    "static/js/main.b6eae343.js"
+    "static/css/main.e91dac15.css",
+    "static/js/main.28d3dcc4.js"
   ]
 }
