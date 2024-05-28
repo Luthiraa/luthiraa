@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.css": "/luthira/static/css/main.d3bab50a.css",
-    "main.js": "/luthira/static/js/main.263ba826.js",
+    "main.css": "/luthira/static/css/main.74f233a5.css",
+    "main.js": "/luthira/static/js/main.8cc4f484.js",
     "static/js/453.44f674cb.chunk.js": "/luthira/static/js/453.44f674cb.chunk.js",
+    "static/media/IMG (18).jpg": "/luthira/static/media/IMG (18).6ad7fbdde1b5ec72edef.jpg",
     "static/media/IMG (16).jpg": "/luthira/static/media/IMG (16).45a3fe9063f6ff3fabb9.jpg",
+    "static/media/IMG (19).jpg": "/luthira/static/media/IMG (19).c433f31c2413e17ca8e4.jpg",
+    "static/media/IMG (17).jpg": "/luthira/static/media/IMG (17).9658095d0bf19fdf4134.jpg",
     "static/media/IMG (13).jpg": "/luthira/static/media/IMG (13).f32560ee95414df836ba.jpg",
+    "static/media/IMG (20).jpg": "/luthira/static/media/IMG (20).e9b34e314e3202bf996a.jpg",
     "static/media/IMG (15).jpg": "/luthira/static/media/IMG (15).f1da7151deeee2785888.jpg",
     "static/media/IMG (12).jpg": "/luthira/static/media/IMG (12).be9e02e8356470d00db5.jpg",
     "static/media/IMG (2).jpg": "/luthira/static/media/IMG (2).4d9ec1caec97af969183.jpg",
@@ -20,10 +24,10 @@
     "static/media/IMG (9).jpg": "/luthira/static/media/IMG (9).9fd32cb2e4d06022f69a.jpg",
     "static/media/IMG (6).jpg": "/luthira/static/media/IMG (6).511a528ee5e15ca224ce.jpg",
     "static/media/IMG (4).jpg": "/luthira/static/media/IMG (4).a94b18b472b34f91d600.jpg",
+    "static/media/TwistedPixx.png": "/luthira/static/media/TwistedPixx.2b4a6e86722973ce928c.png",
     "static/media/IMG (7).jpg": "/luthira/static/media/IMG (7).8aa1ea1971a4c7293dc5.jpg",
     "static/media/V1.png": "/luthira/static/media/V1.3ae851c290e17a3fa1ff.png",
     "static/media/IWB.png": "/luthira/static/media/IWB.f01723b658a21abf861d.png",
-    "static/media/OPS.png": "/luthira/static/media/OPS.9598382c0fbf5d54d799.png",
     "static/media/IMG (5).jpg": "/luthira/static/media/IMG (5).8ae81c991d2e103fa3d5.jpg",
     "static/media/Nebula.png": "/luthira/static/media/Nebula.221f4969ca83a654a4d3.png",
     "static/media/Research.png": "/luthira/static/media/Research.4f5d5f56ce29a84ff608.png",
@@ -31,12 +35,12 @@
     "static/media/OPS2.png": "/luthira/static/media/OPS2.81110a44d4922400bdd0.png",
     "static/media/logo.svg": "/luthira/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/luthira/index.html",
-    "main.d3bab50a.css.map": "/luthira/static/css/main.d3bab50a.css.map",
-    "main.263ba826.js.map": "/luthira/static/js/main.263ba826.js.map",
+    "main.74f233a5.css.map": "/luthira/static/css/main.74f233a5.css.map",
+    "main.8cc4f484.js.map": "/luthira/static/js/main.8cc4f484.js.map",
     "453.44f674cb.chunk.js.map": "/luthira/static/js/453.44f674cb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3bab50a.css",
-    "static/js/main.263ba826.js"
+    "static/css/main.74f233a5.css",
+    "static/js/main.8cc4f484.js"
   ]
 }
