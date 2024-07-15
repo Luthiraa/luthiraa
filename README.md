@@ -5,7 +5,7 @@
 ##### Currently working on: 
 <ul>
   <li>
-    RL with a SARSA algorithm with numpy and math 🤓
+    RL with a SARSA algorithm
   </li>
   <li>
     Cassandra DB 
