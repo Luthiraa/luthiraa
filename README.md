@@ -8,9 +8,6 @@
     RL with a SARSA algorithm
   </li>
   <li>
-    Cassandra DB 
-  </li>
-  <li>
     Custom smart glasses w/ a personal assistant
   </li>
 </ul>
