@@ -5,7 +5,7 @@
 ##### Currently working on: 
 <ul>
   <li>
-    RL with a SARSA algorithm
+    RL with a SARSA
   </li>
   <li>
     Custom smart glasses w/ a personal assistant
