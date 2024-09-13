@@ -2,15 +2,6 @@
 ![Banner](banner.png)
 
 ### I am a first-year ECE student at the University Of Toronto, interested in IoT and systems software.
-##### Currently working on: 
-<ul>
-  <li>
-    RL with a SARSA
-  </li>
-  <li>
-    Custom smart glasses w/ a personal assistant
-  </li>
-</ul>
 Connect with me on LinkedIn! 
 <br>
 <br>
