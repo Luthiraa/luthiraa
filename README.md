@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Luthira Abeykoon
 ![Banner](banner.png)
 
-### I am a second-year ECE student at the University Of Toronto, interested in IoT, embedded systems, and systems software.
+### I am a second-year ECE student at the University Of Toronto, interested in IoT, embedded systems, and automation.
 Connect with me on LinkedIn! 
 <br>
 <br>
