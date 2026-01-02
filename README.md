@@ -4,5 +4,5 @@ Hi! I'm Luthira, a 20-year-old developer based in Toronto. I study Electrical an
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luthira)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/luthiraabeykoon)
 
-![tumblr_pkcl2a0BxF1vp8wmqo1_540](https://github.com/user-attachments/assets/59841e7c-17f6-4055-be11-947c49352c4f)
 
+![qHylhch (1)](https://github.com/user-attachments/assets/29f25e48-7511-4ef1-8ea0-70b06d3d3d91)
